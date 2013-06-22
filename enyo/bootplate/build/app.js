@@ -1,7 +1,7 @@
 
 // minifier: path aliases
 
-enyo.path.addPaths({layout: "/home/reviewdaemon/hudson/trunk/agent/workspace/Enyo-github-build/bootplate/enyo/../lib/layout/", onyx: "/home/reviewdaemon/hudson/trunk/agent/workspace/Enyo-github-build/bootplate/enyo/../lib/onyx/", onyx: "/home/reviewdaemon/hudson/trunk/agent/workspace/Enyo-github-build/bootplate/enyo/../lib/onyx/source/"});
+enyo.path.addPaths({layout: "c://Web/server2go/htdocs/cakel.github.io/enyo/bootplate/enyo/../lib/layout/", onyx: "c://Web/server2go/htdocs/cakel.github.io/enyo/bootplate/enyo/../lib/onyx/", onyx: "c://Web/server2go/htdocs/cakel.github.io/enyo/bootplate/enyo/../lib/onyx/source/"});
 
 // FittableLayout.js
 
